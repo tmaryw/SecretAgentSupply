@@ -1,0 +1,28 @@
+html {
+  font-size: 18px;
+  font-family: Helvetica;
+  color: white;
+}
+
+header {
+  display: flex;
+  text-align: left;
+  background-color: black;
+  padding-top: 0px;
+  z-index: 1;
+}
+
+
+
+header h3 {
+  font-family: Helvetica;
+  font-size: 1rem;
+  margin-top: 0.66rem;
+  margin-bottom: 0.66rem;
+}
+
+header img {
+  margin-right: 1rem;
+  margin-left: 0.5rem;
+  height: 1.5rem;
+}
